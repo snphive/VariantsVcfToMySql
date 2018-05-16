@@ -1,4 +1,4 @@
-# nsVariantsVcfToMySql
+# VariantsVcfToMySql
 
 Scripts (in python and possibly R) intended to:
 
